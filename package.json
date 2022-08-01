@@ -1,7 +1,7 @@
 {
   "name": "vuejs-tree-kamil",
   "description": "A highly customizable vuejs tree",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "main": "dist/vuejs-tree.common.js",
   "keywords": [
     "vuejs",
