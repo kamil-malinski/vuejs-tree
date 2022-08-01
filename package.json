@@ -1,5 +1,5 @@
 {
-  "name": "vuejs-tree",
+  "name": "vuejs-tree-kamil",
   "description": "A highly customizable vuejs tree",
   "version": "3.0.2",
   "main": "dist/vuejs-tree.common.js",
@@ -8,9 +8,8 @@
     "tree",
     "custom"
   ],
-  "repository": "git@github.com:vinz3872/vuejs-tree.git",
-  "bugs": "git@github.com:vinz3872/vuejs-tree/issues",
-  "author": "vinz3872 <vinz3872@gmail.com>",
+  "repository": "git@github.com:kamil-malinski/vuejs-tree.git",
+  "author": "Kamil <kamil@malinski.at",
   "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
